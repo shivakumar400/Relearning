@@ -1,11 +1,11 @@
 body {
-  background-color: #279b95;
+  background-color: #E8F9FD;
 
-  color: #95d9d6;
+  color: #497174;
 
-  font-style: italic;
+  font-family: monospace;
 
-  font-size: 15px
+  font-size: 12.5px
 }
 
 hr {
@@ -17,4 +17,10 @@ hr {
 
 h3 {color: #4db6ac;
 
+}
+
+thead {
+
+    font-size: 15px;
+    color: #4db6ac;
 }
